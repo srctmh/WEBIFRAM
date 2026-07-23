@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pycryptodome
-requests
-python-multipart
-Flask==3.0.3

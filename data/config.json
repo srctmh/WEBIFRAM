@@ -1,0 +1,25 @@
+{
+  "targetUrl": "https://ffemoteweb-flppxs8l.manus.space/tool",
+  "profileImage": "https://kdptifcdlxtagcewazjt.supabase.co/functions/v1/download/c2fd5447-24cb-4d22-a624-6a28a6a448a9/1782681232677_cropped_circle_image__1_.png?v=2",
+  "passwords": [
+    "SRCTMH2024",
+    "ADMIN@123",
+    "EMOTE2026",
+    "STARGAMER",
+    "MAXPRO",
+    "VIPACCESS"
+  ],
+  "autoCopyText": "SRCTMH",
+  "getKeyUrl": "https://t.me/star_methode/248",
+  "adminContact": "https://t.me/srctmh",
+  "maintenance": false,
+  "maintenanceMsg": "\ud83d\udee0\ufe0f Under maintenance. Please check back later.",
+  "tempKeyExpiry": 3,
+  "rateLimit": 20,
+  "keyGeneration": true,
+  "social": {
+    "instagram": "https://instagram.com/srctmh",
+    "youtube": "https://youtube.com/@srctmh",
+    "telegram": "https://t.me/srctmh"
+  }
+}
